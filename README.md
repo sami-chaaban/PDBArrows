@@ -22,6 +22,8 @@ Use this notebook to generate a file in chimera that draws arrows between two PD
 
 * Open the notebook to see the instructions. Briefly, the PDB files are parsed and a fasta-format output is generated for you to run a sequence alignment. This is then input to the second part of the notebook to generate a chimera bild file.
 
+* There should only be one chain in each PDB file.
+
 ## License<a name="license"></a>
 
 This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/sami-chaaban/PDBarrows/blob/main/LICENSE.txt) file for details.
