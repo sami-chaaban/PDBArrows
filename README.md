@@ -8,11 +8,15 @@ Use this notebook to generate a file in chimera that draws arrows between two PD
 
 ## Prereqs<a name="prereqs"></a>
 
-* Set up a fresh conda environment with Python >= 3.7: `conda create -n arrows python=3.7`
+* Set up a fresh conda environment with Python >= 3.7: **`conda create -n arrows python=3.7`**
 
-* Activate the environment: `conda activate arrows`.
+* Activate the environment: **`conda activate arrows`**.
 
-* Install jupyter, biopandas, and biopython: **`pip install notebook biopandas Bio`**
+* Install jupyter, biopandas, and biopython: **`pip install notebook biopandas Bio`**.
+
+* Start jupyter notebook: **`jupyter notebook`**.
+
+* Open the notebook **PDBArrows.ipynb**.
 
 ## Instructions<a name="instruct"></a>
 
